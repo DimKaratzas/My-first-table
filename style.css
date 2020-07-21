@@ -1,0 +1,49 @@
+table, th, td {
+     border: 1px solid DarkSlateGrey;
+     border-radius: 6px;
+  }
+  table {
+     margin-left: auto;
+     margin-right: auto;  }
+  
+  html {
+     font-family: Lucida Console;
+     font-size: 14px;
+     background-color: LightSlateGrey;
+  }
+  
+  header {
+     font-size: 18px;
+     text-align: center;
+     color: DarkSlateGrey;
+     background-color: Grey;
+     border: 5px solid DimGrey;
+     width: 500px;
+     border-radius: 30px;
+     padding: 10px;
+     margin: 40px;
+     margin-left: auto;
+     margin-right: auto;
+  }
+  
+  th {
+     font-size: 16px;
+     color: DarkSlateGrey;
+     background-color: Grey;
+  }
+  
+  .theader {
+     text-align: center;
+     color: DarkSlateGrey;
+  }
+  
+  hr {
+     border: 2px solid DimGrey;
+     border-radius: 5px;
+   }
+  
+   footer {
+     color: DarkSlateGrey;
+   }
+  
+  
